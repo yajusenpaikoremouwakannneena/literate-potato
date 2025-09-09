@@ -1,2 +1,2 @@
 # literate-potato
-uwa
+これはmindustryのMODをテストで作っています
